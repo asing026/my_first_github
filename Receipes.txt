@@ -1,4 +1,3 @@
 tofu
 ham 
 tomato
-pineapple
